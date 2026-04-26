@@ -1,0 +1,3 @@
+Model,WER
+Whisper-small (baseline),0.7184693479109723
+Whisper-small (fine-tuned),0.4041390081999219
