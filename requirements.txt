@@ -1,0 +1,11 @@
+torch
+torchaudio
+transformers
+datasets
+evaluate
+jiwer
+soundfile
+librosa
+pandas
+requests
+tqdm
